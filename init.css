@@ -6,6 +6,33 @@
 	width: 50%;
 	box-shadow: 0px 0px 15px 0px;
 }
+body{
+	background-color: #e6e6e6;
+}
+.extend{
+	height: 15em;
+
+}
+.con{
+	height: 70%;
+	padding-top: 3em;
+    background-color: #eeeeee;
+    padding-left: 5em;
+    padding-right: 5em;
+}
+.over{
+	height: 50em;
+	position: relative;
+	z-index: 10;
+	margin: 0px auto;
+	margin-top: -10em;
+	width: 50%;
+}
+.head{
+	height: 22%;
+	background-color: #e6e6e6;
+	
+}
 .verleft{
 	border-top: 1px grey solid
 }
